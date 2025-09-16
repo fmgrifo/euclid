@@ -3,5 +3,5 @@ def disuguaglianza_triangolare(a: int, b: int, c: int) -> bool:
         return True
     else:
         return False
-
+# Ciao pippo, ho aggiunto questo commento
 disuguaglianza_triangolare(2, 8, 3)
